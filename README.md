@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/6dccc728-4905-4ff7-bd5a-ddbb0edd0cd7.jpeg?v=1784127501)](https://www.boot.dev/certificates/6dccc728-4905-4ff7-bd5a-ddbb0edd0cd7)
+
 <!--
 **nvbeel1/nvbeel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
